@@ -1,4 +1,17 @@
 Version 1.2:
+ - Version bump to 1.2
+ - merging release branch to main
+ - Delete bumb-version.sh
+ - Bumped version number to 1.2
+ - Create bumb-version.sh
+
+Version 1.2:
+ - merging release branch to main
+ - Delete bumb-version.sh
+ - Bumped version number to 1.2
+ - Create bumb-version.sh
+
+Version 1.2:
 
 
 Version 0.1.0
